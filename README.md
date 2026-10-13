@@ -39,8 +39,7 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
 ---
 # Projects
 
-
-
+WIP
 
 # Case Studies
 ---
