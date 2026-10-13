@@ -1,8 +1,7 @@
-# 💫 About Me:
-🔭 Working on Data Analytics<br>
-🌱 Currently learning Machine Learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+# About Me:
+Working on Data Analytics<br>
+Currently learning Machine Learning<br>
+
 
 
 ## 🌐 Socials:
