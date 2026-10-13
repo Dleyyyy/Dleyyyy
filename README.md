@@ -1,15 +1,16 @@
 # About Me:
 
 Pursuing to enter the data space<br>
-Currently learning Data Analytics and Machine Learning<br>
+Currently learning Statistics, Data Analytics, and Machine Learning<br>
 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dleyyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjamespuerta) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dleyyyy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjamespuerta) 
+
 
 # 💻 Tech Stack:
-
 ## Development: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,7 +37,10 @@ Currently learning Data Analytics and Machine Learning<br>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
 
-### 
+### Case Studies
 
+![Data Engineering Case Study](https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Data_Engineering_Casestudy_Thumbnail.png)
+
+**Data Engineering Case Study** Case study submitted for Analytics Solutions Bootcamp by Sir Josh Dev PH. [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
