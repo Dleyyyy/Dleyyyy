@@ -1,10 +1,12 @@
+WIP GITHUB PROFILE
+
 # About Me:
 
 Pursuing to enter the data space<br>
 Currently learning Statistics, Data Analytics, and Machine Learning<br>
 
 ## Certification
-[![DataCamp Certification](https://img.shields.io/badge/DataCamp-Associate%20Data%20Analyst-03E860?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DAA0012961535301)   
+[![DataCamp Certification](https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03E860?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DAA0012961535301)   
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dleyyyy) 
