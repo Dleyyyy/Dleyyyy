@@ -35,16 +35,15 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-
+---
 # Projects
 
 
 
 
 # Case Studies
-
+---
 ![Data Engineering Case Study](https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Data_Engineering_Casestudy_Thumbnail.png)
-
-**Data Engineering Case Study** submitted for Analytics Solutions Bootcamp by Sir Josh Dev PH. [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
+**Data Engineering Case Study:** An end-to-end ELT pipeline transforming raw Wide World Importers operational data into an analytics-ready star schema. Built using Docker, Apache Airflow, DuckDB, PostgreSQL, and dbt to handle automated extraction, normalized loading, and Slowly Changing Dimensions (SCD Type 2). View the complete architecture and business queries [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
