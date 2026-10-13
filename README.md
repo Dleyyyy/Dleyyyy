@@ -36,11 +36,15 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
+# Projects
 
-### Case Studies
+
+
+
+# Case Studies
 
 ![Data Engineering Case Study](https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Data_Engineering_Casestudy_Thumbnail.png)
 
-**Data Engineering Case Study** Case study submitted for Analytics Solutions Bootcamp by Sir Josh Dev PH. [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
+**Data Engineering Case Study** submitted for Analytics Solutions Bootcamp by Sir Josh Dev PH. [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
