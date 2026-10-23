@@ -26,7 +26,7 @@
   </table>
 </div>
 
-**Description:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. 
+**Description:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. Made for National Coffee Research, Development and Extension Center - Philippines during our internship. 
 
 **Built with:**<br>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
