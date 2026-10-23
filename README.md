@@ -1,36 +1,51 @@
-WIP GITHUB PROFILE
+# 👨‍💻 About Me
 
-# About Me:
+🔭 Pursuing to enter the data space.
+🌱 Currently learning Statistics, Data Analytics, and Machine Learning.
 
-Pursuing to enter the data space<br>
-Currently learning Statistics, Data Analytics, and Machine Learning<br>
+## 🏆 Certification
+[![DataCamp Certification](https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03E860?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DAA0012961535301)  
 
-## Certification
-[![DataCamp Certification](https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03E860?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DAA0012961535301)   
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/dleyyyy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjamespuerta) 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dleyyyy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjamespuerta) 
+<br>
 
-# Projects
+# 💻 Projects
 ---
 
 ## NCRDEC Web-Based Kiosk System
 
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Facebook_Post.jpg" width="400"></td>
-  </tr>
-  <td>
-    <td align="center"  colspan="2"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/NCRDEC_Kiosk.gif" width="300"></td>
-  </tr> 
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Facebook_Post.jpg" width="400" alt="NCRDEC Post"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/NCRDEC_Kiosk.gif" width="400" alt="NCRDEC Kiosk Demo"></td>
+    </tr> 
+  </table>
+</div>
 
-**NCRDEC Web-Based Kiosk System:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. Built using ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white), and ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).   
+**Description:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. 
 
-# Case Studies
+**Built with:**<br>
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+
+<br>
+
+# 📊 Case Studies
 ---
-![Data Engineering Case Study](https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Data_Engineering_Casestudy_Thumbnail.png)
-**Data Engineering Case Study:** An end-to-end ELT pipeline transforming raw Wide World Importers operational data into an analytics-ready star schema. Built using Docker, Apache Airflow, DuckDB, PostgreSQL, and dbt to handle automated extraction, normalized loading, and Slowly Changing Dimensions (SCD Type 2). View the complete architecture and business queries [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Data Engineering: Wide World Importers
+<div align="center">
+  <a href="https://github.com/Dleyyyy/Data-Engineering-Case-Study">
+    <img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Data_Engineering_Casestudy_Thumbnail.png" width="800" alt="Data Engineering Case Study Thumbnail">
+  </a>
+</div>
+<br>
+
+**Description:** An end-to-end ELT pipeline transforming raw Wide World Importers operational data into an analytics-ready star schema. Built using Docker, Apache Airflow, DuckDB, PostgreSQL, and dbt to handle automated extraction, normalized loading, and Slowly Changing Dimensions (SCD Type 2). 
+
+**Links:** View the complete architecture and business queries [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
