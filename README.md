@@ -42,7 +42,7 @@ Currently learning Statistics, Data Analytics, and Machine Learning.
 <br>
 
 
-## FLEXIT: Gym Management System
+## FLEXIT: Gym Management System (Capstone Project)
 
 <div align="center">
   <table>
