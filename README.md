@@ -26,7 +26,13 @@
   </table>
 </div>
 
-**Description:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. Made for National Coffee Research, Development and Extension Center - Philippines during our internship. 
+**Description:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. Made for the National Coffee Research, Development and Extension Center - Philippines during our internship. 
+
+**NCRDEC Links:**<br>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cvsu.edu.ph/ovpre-ncrdec/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ncrdecphilippines)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ncrdecph/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ncrdec@cvsu.edu.ph)
 
 **Built with:**<br>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
