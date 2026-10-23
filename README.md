@@ -17,7 +17,14 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
 
 ## NCRDEC Web-Based Kiosk System
 
-<img src="carousel.svg" width="680">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Facebook_Post.jpg" width="400"></td>
+  </tr>
+  <td>
+    <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/NCRDEC_Kiosk.svg" width="300"></td>
+  </tr> 
+</table>
 
 **NCRDEC Web-Based Kiosk System:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. Built using ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white), and ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).   
 
