@@ -41,6 +41,32 @@ Currently learning Statistics, Data Analytics, and Machine Learning.
 
 <br>
 
+
+## FLEXIT: Gym Management System
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="" width="400" alt="FLEXIT Image 1 Placeholder"></td>
+      <td align="center"><img src="" width="400" alt="FLEXIT Image 2 Placeholder"></td>
+    </tr> 
+  </table>
+</div>
+
+**Description:** A comprehensive gym management system. The platform features member and discount management, coach booking, QR code-based attendance, payment tracking, simple inventory and equipment tracking, detailed audit logs, and a dedicated mobile application for gym members.
+
+**My Contribution:** Designed and developed the backend architecture, RESTful APIs, database schema, and the admin frontend dashboard.
+
+**Built with:**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<br>
+
 # Case Studies
 ---
 
