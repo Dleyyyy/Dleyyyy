@@ -20,8 +20,6 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
 <table>
   <tr>
     <td align="center" colspan="2"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Facebook_Post.jpg" width="400"></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/UserLanding.png" width="300"></td>
   </tr> 
 </table>
