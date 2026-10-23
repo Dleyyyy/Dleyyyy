@@ -1,18 +1,18 @@
-# 👨‍💻 About Me
+# About Me
 
-🔭 Pursuing to enter the data space.
-🌱 Currently learning Statistics, Data Analytics, and Machine Learning.
+Pursuing to enter the data space.
+Currently learning Statistics, Data Analytics, and Machine Learning.
 
-## 🏆 Certification
+## Certification
 [![DataCamp Certification](https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03E860?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DAA0012961535301)  
 
-## 🌐 Socials
+## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/dleyyyy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjamespuerta) 
 
 <br>
 
-# 💻 Projects
+# Projects
 ---
 
 ## NCRDEC Web-Based Kiosk System
@@ -41,7 +41,7 @@
 
 <br>
 
-# 📊 Case Studies
+# Case Studies
 ---
 
 ## Data Engineering: Wide World Importers
