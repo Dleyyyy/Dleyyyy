@@ -22,7 +22,7 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
     <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Facebook_Post.jpg" width="400"></td>
   </tr>
   <td>
-    <td align="center"  colspan="2"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/NCRDEC_Kiosk.svg" width="300"></td>
+    <td align="center"  colspan="2"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/NCRDEC_Kiosk.gif" width="300"></td>
   </tr> 
 </table>
 
