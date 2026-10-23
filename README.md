@@ -49,3 +49,12 @@
 **Description:** An end-to-end ELT pipeline transforming raw Wide World Importers operational data into an analytics-ready star schema. Built using Docker, Apache Airflow, DuckDB, PostgreSQL, and dbt to handle automated extraction, normalized loading, and Slowly Changing Dimensions (SCD Type 2). 
 
 **Links:** View the complete architecture and business queries [here](https://github.com/Dleyyyy/Data-Engineering-Case-Study).
+
+**Built with:**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
