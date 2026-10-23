@@ -13,8 +13,20 @@ Currently learning Statistics, Data Analytics, and Machine Learning<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjamespuerta) 
 
 # Projects
+---
 
-WIP
+## NCRDEC Web-Based Kiosk System
+
+<table>
+  <tr>
+    <td align="center" colspan="2"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Facebook_Post.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/UserLanding.png" width="300"></td>
+  </tr> 
+</table>
+
+**NCRDEC Web-Based Kiosk System:** A self-service kiosk for visitor feedback, appointment booking, organization profiling, and staff fingerprint attendance, paired with an admin dashboard for managing records and viewing analytics. Built using [Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white), and ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).   
 
 # Case Studies
 ---
