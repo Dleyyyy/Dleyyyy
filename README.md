@@ -46,7 +46,7 @@ Currently learning Statistics, Data Analytics, and Machine Learning.
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="" width="400" alt="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Flexit.gif"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/dleyyyy/dleyyyy/main/Flexit.gif" width="400" alt="Flexit"></td>
     </tr> 
   </table>
 </div>
