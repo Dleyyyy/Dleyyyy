@@ -32,7 +32,6 @@ Currently learning Statistics, Data Analytics, and Machine Learning.
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cvsu.edu.ph/ovpre-ncrdec/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ncrdecphilippines)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ncrdecph/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ncrdec@cvsu.edu.ph)
 
 **Built with:**<br>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -47,8 +46,7 @@ Currently learning Statistics, Data Analytics, and Machine Learning.
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="" width="400" alt="FLEXIT Image 1 Placeholder"></td>
-      <td align="center"><img src="" width="400" alt="FLEXIT Image 2 Placeholder"></td>
+      <td align="center"><img src="" width="400" alt="Flexit.gif"></td>
     </tr> 
   </table>
 </div>
